@@ -1,3 +1,20 @@
-p{
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
     font-size: 50px;
+}
+.blue-highlight{
+    color: blue;
+}
+.half-width{
+    width: 42%;
+    float: left;
+    margin-left: 15px;
+}
+#short-picture{
+    width: 100%;
+}
+.top-area{
+    background-image: url("images/top-banner.png");
 }
