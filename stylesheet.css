@@ -51,6 +51,7 @@ section{
     background-image: linear-gradient( 45deg,lightsalmon,tomato);
     text-decoration:none;
     padding: 10px 30px;
+    border-radius: 5px;
 }
 #full-stuck{
     font-size: 30px;
@@ -66,8 +67,29 @@ section{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    background-color: white;
 }
-#single-experience{
-    border-left: 1px solid;
-    margin-left: 10%;
+.single-experience{
+   box-shadow: 10px 10px 40px gray;
+   height: 80%;
+   margin-left: 7%;
+}
+#shadow{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#another-shdow{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg ,green,blue);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
+.margin{
+    margin-left: 7%;
+}
+.another-margin{
+    margin-left: 7%;
 }
