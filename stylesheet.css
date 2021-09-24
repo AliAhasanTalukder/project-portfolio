@@ -46,3 +46,24 @@ section{
 #padding{
     padding-left: 10px;
 }
+.facebook{
+    background-color: white;
+    background-image: linear-gradient( 45deg,lightsalmon,tomato);
+    text-decoration:none;
+    padding: 10px 30px;
+}
+#full-stuck{
+    font-size: 30px;
+    padding: 10px ;
+}
+#experieenc{
+    font-size: 45px;
+}
+#baby{
+    font-size: 30px;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
