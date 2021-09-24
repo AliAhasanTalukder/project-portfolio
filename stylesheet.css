@@ -44,7 +44,7 @@ section{
     
 }
 #padding{
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .facebook{
     background-color: white;
@@ -66,4 +66,8 @@ section{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+}
+#single-experience{
+    border-left: 1px solid;
+    margin-left: 10%;
 }
